@@ -1,0 +1,51 @@
+--------------------------------------------
+--------------------------------------------
+
+------En Iyi Yol------
+Mesafe: 4025
+Guzergah:Kocaeli-Sakarya-Bilecik-Kutahya-Afyonkarahisar----Afyonkarahisar-Denizli-Aydin----Aydin-Denizli-Burdur-Antalya----Antalya-Mersin-Adana----Adana-Osmaniye-Gaziantep-Sanliurfa-Diyarbakir-Batman-Bitlis-Agri----Agri-Erzurum-Erzincan-Sivas-Yozgat-Kirikkale-Ankara----Ankara-Bolu-Sakarya-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 1 --------
+Mesafe: 4025
+Guzergah:Kocaeli-Sakarya-Bolu-Ankara----Ankara-Kirikkale-Yozgat-Sivas-Erzincan-Erzurum-Agri----Agri-Bitlis-Batman-Diyarbakir-Sanliurfa-Gaziantep-Osmaniye-Adana----Adana-Mersin-Antalya----Antalya-Burdur-Denizli-Aydin----Aydin-Denizli-Afyonkarahisar----Afyonkarahisar-Kutahya-Bilecik-Sakarya-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 2 --------
+Mesafe: 4149
+Guzergah:Kocaeli-Bursa-Balikesir-Manisa-Aydin----Aydin-Denizli-Afyonkarahisar----Afyonkarahisar-Burdur-Antalya----Antalya-Mersin-Adana----Adana-Osmaniye-Gaziantep-Sanliurfa-Diyarbakir-Batman-Bitlis-Agri----Agri-Erzurum-Erzincan-Sivas-Yozgat-Kirikkale-Ankara----Ankara-Bolu-Sakarya-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 3 --------
+Mesafe: 4149
+Guzergah:Kocaeli-Sakarya-Bolu-Ankara----Ankara-Kirikkale-Yozgat-Sivas-Erzincan-Erzurum-Agri----Agri-Bitlis-Batman-Diyarbakir-Sanliurfa-Gaziantep-Osmaniye-Adana----Adana-Mersin-Antalya----Antalya-Burdur-Afyonkarahisar----Afyonkarahisar-Denizli-Aydin----Aydin-Manisa-Balikesir-Bursa-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 4 --------
+Mesafe: 4291
+Guzergah:Kocaeli-Sakarya-Bilecik-Kutahya-Afyonkarahisar----Afyonkarahisar-Eskisehir-Ankara----Ankara-Kirikkale-Yozgat-Sivas-Erzincan-Erzurum-Agri----Agri-Bitlis-Batman-Diyarbakir-Sanliurfa-Gaziantep-Osmaniye-Adana----Adana-Mersin-Antalya----Antalya-Burdur-Denizli-Aydin----Aydin-Manisa-Balikesir-Bursa-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 5 --------
+Mesafe: 4291
+Guzergah:Kocaeli-Bursa-Balikesir-Manisa-Aydin----Aydin-Denizli-Burdur-Antalya----Antalya-Mersin-Adana----Adana-Osmaniye-Gaziantep-Sanliurfa-Diyarbakir-Batman-Bitlis-Agri----Agri-Erzurum-Erzincan-Sivas-Yozgat-Kirikkale-Ankara----Ankara-Eskisehir-Afyonkarahisar----Afyonkarahisar-Kutahya-Bilecik-Sakarya-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 6 --------
+Mesafe: 4304
+Guzergah:Kocaeli-Bursa-Balikesir-Manisa-Aydin----Aydin-Denizli-Burdur-Antalya----Antalya-Burdur-Afyonkarahisar----Afyonkarahisar-Konya-Mersin-Adana----Adana-Osmaniye-Gaziantep-Sanliurfa-Diyarbakir-Batman-Bitlis-Agri----Agri-Erzurum-Erzincan-Sivas-Yozgat-Kirikkale-Ankara----Ankara-Bolu-Sakarya-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 7 --------
+Mesafe: 4314
+Guzergah:Kocaeli-Sakarya-Bolu-Ankara----Ankara-Kirikkale-Yozgat-Sivas-Erzincan-Erzurum-Agri----Agri-Bitlis-Batman-Diyarbakir-Sanliurfa-Gaziantep-Osmaniye-Adana----Adana-Mersin-Konya-Afyonkarahisar----Afyonkarahisar-Burdur-Antalya----Antalya-Burdur-Denizli-Aydin----Aydin-Manisa-Balikesir-Bursa-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 8 --------
+Mesafe: 4366
+Guzergah:Kocaeli-Sakarya-Bolu-Ankara----Ankara-Kirikkale-Yozgat-Sivas-Erzincan-Erzurum-Agri----Agri-Bitlis-Batman-Diyarbakir-Sanliurfa-Gaziantep-Osmaniye-Adana----Adana-Mersin-Antalya-Burdur-Denizli-Aydin----Aydin-Denizli-Burdur-Antalya----Antalya-Burdur-Afyonkarahisar----Afyonkarahisar-Kutahya-Bilecik-Sakarya-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 9 --------
+Mesafe: 4396
+Guzergah:Kocaeli-Sakarya-Bolu-Ankara----Ankara-Eskisehir-Afyonkarahisar----Afyonkarahisar-Denizli-Aydin----Aydin-Denizli-Burdur-Antalya----Antalya-Mersin-Adana----Adana-Osmaniye-Gaziantep-Sanliurfa-Diyarbakir-Batman-Bitlis-Agri----Agri-Erzurum-Erzincan-Sivas-Yozgat-Kirikkale-Ankara-Bolu-Sakarya-Kocaeli----
